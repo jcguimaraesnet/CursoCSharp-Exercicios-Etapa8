@@ -13,9 +13,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exemplo 4", "exemplo 4", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exemplo 2", "exemplo 2", "{150235B7-DE86-443B-95EB-B67DEB1D9348}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exemplo 1", "exemplo 1", "{3F2E07F2-B2A7-4133-AA21-C58B4E310818}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exemplo 1 - escrita e leitura console", "exemplo 1 - escrita e leitura console", "{3F2E07F2-B2A7-4133-AA21-C58B4E310818}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exemplo 2", "exemplo 2", "{2D114AD0-C081-4FBB-9BEF-3ACA03A08687}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exemplo 2 - escrita e leitura worker service", "exemplo 2 - escrita e leitura worker service", "{2D114AD0-C081-4FBB-9BEF-3ACA03A08687}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Etapa8-LeituraEscritaComArquivoDeConfiguracao", "Etapa8-LeituraEscritaComArquivoDeConfiguracao\Etapa8-LeituraEscritaComArquivoDeConfiguracao.csproj", "{F010A25F-2A7A-4710-90B1-D852895B97A1}"
 EndProject
