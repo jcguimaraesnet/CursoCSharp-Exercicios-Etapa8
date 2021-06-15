@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Etapa8_LeituraEscritaComArquivoDeConfiguracao": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
